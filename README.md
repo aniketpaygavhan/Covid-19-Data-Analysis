@@ -10,7 +10,7 @@ Key Components
 Data Collection: Aggregation of COVID-19 data from reliable sources such as Johns Hopkins University, WHO, and other public health databases.
 Data Cleaning: Preprocessing and cleaning of raw data to ensure accuracy and consistency.
 Exploratory Data Analysis (EDA): Visualization and statistical analysis to uncover trends and anomalies in the data.
-Predictive Modeling: Application of statistical models to predict future trends and assess potential outcomes.
+Predictive Modeling: Application of statistical models to predict future trends and assess potential outcomes..
 Results and Insights: Interpretation of the data to provide actionable insights for policymakers and healthcare professionals.
 
 Conclusion:-
